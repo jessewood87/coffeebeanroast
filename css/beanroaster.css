@@ -53,8 +53,27 @@ footer {
 	text-align: center
 }
 
+#tdbutton{
+    width: 20%;
+    align: left;
+}
+
+#td1 {
+    width: 80%;
+}
+
+#td2 {
+    width:20%;
+    align= left;
+}
+
 #uploadImage{
     float:left
+}
+
+#comments {
+    width:622px;
+    align=center;
 }
 
 #dvColoursample{
